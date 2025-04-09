@@ -19,21 +19,22 @@ body {
 }
 
 .number {
-    font-size: 230px;
+    font-size: 220px;
     
 
 }
 
 .first-icon {
     position: relative;
-    font-size: 90px;
+    font-size: 100px;
 padding-bottom: 520px;
+right: 40px;
 }
 
 .second-icon {
-    font-size: 90px;
+    font-size: 100px;
     margin-top: auto;
     position: relative;
-    left: 15px;
+    left: 45px;
     transform: rotate(180deg);
 }
